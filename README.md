@@ -1,4 +1,5 @@
 # WAV 音效檔播放器
+<img width="878" height="364" alt="image" src="https://github.com/user-attachments/assets/32d89576-0ce0-435d-855b-006a0c824f81" />
 
 ## 一、專案簡介
 
